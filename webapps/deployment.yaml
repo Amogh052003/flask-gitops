@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: harbor.synthlane.com/library/myapp:40
+        image: harbor.synthlane.com/library/myapp:41
         ports:
         - containerPort: 5000
